@@ -32,7 +32,7 @@ See SafeFlow's GLOF monitoring capabilities in action!
 
 ## 📦 APK Download
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/shiv10000/SafeFlow/releases/tag/v2.0)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/shiv10000/SafeFlow/releases/download/v2.0/app-debug.apk)
 
 > 📱 Download the latest version of the SafeFlow Android app.
 
