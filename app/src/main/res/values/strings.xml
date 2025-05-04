@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Safeflow</string>
+    <string name="WelcomeMessage">Welcome!</string>
+    <string name="desc">Enter your mobile number to verify\nyour account and start Tracking\nGlacial Lakes Nearby you !</string>
+    <string name="MobileNo">Yours Mobile Number</string>
+    <string name="Terms_and_Condition">By continuing, you agree to our</string>
+    <string name="Terms_and_Condition2">Terms &amp; Privacy Policy</string>
+    <string name="AppLogo">Safeflow</string>
+    <string name="AppLogoDesc">a B2C GLOF SAFETY App</string>
+    <string name="Otp">Enter the OTP</string>
+    <string name="OtpDesc1">We have sent an OTP code to your</string>
+    <string name="Otpdesc2">Phone Number</string>
+    <string name="Nearby">Nearby Lakes</string>
+    <string name="alertpop">Safeflow wants to know</string>
+    <string name="alertpop2">your Loacation and Run on </string>
+    <string name="alertpop3">Background Acess </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

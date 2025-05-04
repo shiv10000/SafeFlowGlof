@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="description_text_color">#D1D5DB</color>
+    <color name="borderColoe">#4B5563</color>
+    <color name="unfocused">#ADAEBC</color>
+    <color name="focused">#E5E7EB</color>
+    <color name="Terms1">#9CA3AF</color>
+    <color name="Terms2">#FFFFFF</color>
+    <color name="Appdesc">#98EBEBF5</color>
+    <color name="UnfocusedContainer">#3448319D</color>
+    <color name="FocusedContainer">#48319D</color>
+    <color name="EmergencyCard">#D0B3B3B3</color>
+    <color name="AlertCard">#DDB3B3B3</color>
+    <color name="Access">#007AFF</color>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

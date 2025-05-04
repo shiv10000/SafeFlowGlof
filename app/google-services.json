@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551023505498",
+    "project_id": "safeflowo",
+    "storage_bucket": "safeflowo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551023505498:android:017c356a2409c6d2e6e863",
+        "android_client_info": {
+          "package_name": "com.example.safeflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDja03wq1OXBJW37Yn0VmmdgzMEeJXrAaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
