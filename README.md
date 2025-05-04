@@ -24,7 +24,7 @@
 
 ## 🎬 Demo
 
-[![SafeFlow Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=7c6nY1PU1hc)
+[![SafeFlow Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/pYRq4SVi_9M)
 
 See SafeFlow's GLOF monitoring capabilities in action!
 
@@ -32,7 +32,7 @@ See SafeFlow's GLOF monitoring capabilities in action!
 
 ## 📦 APK Download
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/shiv10000/SafeFlow/releases/download/v1.0.0/SafeFlow.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/shiv10000/SafeFlow/releases/tag/v2.0)
 
 > 📱 Download the latest version of the SafeFlow Android app.
 

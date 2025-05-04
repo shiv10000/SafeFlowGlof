@@ -140,6 +140,7 @@ fun NavGraph(navController: NavHostController) {
             HomeWeather(
                 onBackClicked = { },
                 lakes = { navController.navigate(NavRoutes.HOME_PAGE) },
+                alert = { navController.navigate(NavRoutes.SOS_SCREEN) }
             )
         }
 
